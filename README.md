@@ -2,5 +2,6 @@
 CinemaApp
 
 
-app link: 
-cinema-app-jet.vercel.app
+<b>app link:</b> 
+<a href="cinema-app-jet.vercel.app">Click</a>
+
